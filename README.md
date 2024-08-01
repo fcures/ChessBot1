@@ -1,5 +1,5 @@
 # ChessBot1
-The official repository for my Discord ChessBot1
+The repository for my Discord ChessBot1
 
 ## Install Instructions
 
